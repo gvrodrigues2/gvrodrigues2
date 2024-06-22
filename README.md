@@ -64,3 +64,17 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gvrodrigues2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p> 
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gvrodrigues2/js-developer-portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=Portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/gvrodrigues2/pokedex.js" title="Pokedéx"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodirgues2&repo=Pokedéx&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/gvrodrigues2/hbomax" title="HBO Max"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=HBO Max-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/gvrodrigues2/_SITE_HTML" title="Primeiro site HTML"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=Primeiro site HTML&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
