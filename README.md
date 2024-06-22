@@ -14,14 +14,18 @@
 </h5>
 <br>
 <p align="center">
-  Olá, eu sou Gabriel Vasconcelos, Front-end Developer, em busca do meu primeiro desafio profissional na área. Residindo atualmente em Paulista-PE
+  Olá, eu sou Gabriel Vasconcelos, Front-end Developer, em busca do meu primeiro desafio profissional na área. Residindo atualmente em Paulista-PE.
   <br>
   <br>
-  🔬 Atualmente estou cursando Análise e Desenvolvimento de Sistemas em UNIFatecie
+  🔬 Atualmente estou cursando Análise e Desenvolvimento de Sistemas em UNIFatecie;
   <br>
-  💻 Adoro criar e estilizar páginas HTML e aprender tudo sobre isso
+  💻 Adoro criar e estilizar páginas HTML e aprender tudo sobre isso;
   <br>
-  📚 Atualmente estou aprendendo mais sobre o NODE.js e Angular
+  📚 Atualmente estou aprendendo mais sobre o NODE.js e Angular;
   <br>
   📫 Como entrar em contato comigo: <a href="mailto: gabrielvasconcelosr@outlook.com">gabrielvasconcelosr@outlook.com</a>
+</p>
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=gvrodrigues2&theme=onedark&column=-1" />
 </p>
