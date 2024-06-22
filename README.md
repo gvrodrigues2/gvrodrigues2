@@ -70,11 +70,21 @@
 <h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/gvrodrigues2/js-developer-portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=Portfolio&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/gvrodrigues2/pokedex.js" title="Pokedéx"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodirgues2&repo=Pokedéx&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/gvrodrigues2/js-developer-portfolio" title="JS Developer Portfolio">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=js-developer-portfolio&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/gvrodrigues2/pokedex.js" title="Pokedex.js">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=pokedex.js&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/gvrodrigues2/hbomax" title="HBO Max"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=HBO Max-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/gvrodrigues2/_SITE_HTML" title="Primeiro site HTML"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=Primeiro site HTML&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/gvrodrigues2/hbomax" title="HBO Max">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=hbomax&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/gvrodrigues2/css_curso" title="CSS Curso">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=css_curso&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+
