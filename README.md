@@ -70,20 +70,20 @@
 <h2 align="center">👨‍💻 Repositórios 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/gvrodrigues2/js-developer-portfolio" title="JS Developer Portfolio">
+  <a align="left" href="https://github.com/gvrodrigues2/js-developer-portfolio" title="Portfolio">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=js-developer-portfolio&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/gvrodrigues2/pokedex.js" title="Pokedex.js">
+  <a align="right" href="https://github.com/gvrodrigues2/pokedex.js" title="Pokedex">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=pokedex.js&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/gvrodrigues2/hbomax" title="HBO Max">
+  <a align="left" href="https://github.com/gvrodrigues2/hbomax" title="Site HBO Max">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=hbomax&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/gvrodrigues2/css_curso" title="CSS Curso">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=css_curso&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/gvrodrigues2/_SITE_HTML" title="Primeiro site com HTML">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=gvrodrigues2&repo=_SITE_HTML&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
