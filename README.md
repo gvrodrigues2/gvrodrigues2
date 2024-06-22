@@ -9,6 +9,19 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/gabriel-vasconcelos-974082242/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/_gvrodrigues_?igsh=MTdncnM1Nm41bDh0cw==" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/gabriel-vasconcelos-974082242/" target="_blank" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/_gvrodrigues_?igsh=MTdncnM1Nm41bDh0cw==" title="Instagram Profile" target="_blank"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+<br>
+<p align="center">
+  Olá, eu sou Gabriel Vasconcelos, Front-end Developer, em busca do meu primeiro desafio profissional na área. Residindo atualmente em Paulista-PE
+  <br>
+  <br>
+  🔬 Atualmente estou cursando Análise e Desenvolvimento de Sistemas em UNIFatecie
+  <br>
+  💻 Adoro criar e estilizar páginas HTML e aprender tudo sobre isso
+  <br>
+  📚 Atualmente estou aprendendo mais sobre o NODE.js e Angular
+  <br>
+  📫 Como entrar em contato comigo: <a href="mailto: gabrielvasconcelosr@outlook.com">gabrielvasconcelosr@outlook.com</a>
+</p>
