@@ -88,5 +88,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-<h1>My Recently Played Tracks on Spotify</h1>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhrylatxh3n3vq3lsjzxe3fk4e&count=5" alt="Spotify Recently Played Tracks">
+<h4 align="center">
+  <a href="https://github.com/gvrodrigues2?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
