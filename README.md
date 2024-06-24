@@ -88,4 +88,5 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mhrylatxh3n3vq3lsjzxe3fk4e&count={count})
+<h1>My Recently Played Tracks on Spotify</h1>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhrylatxh3n3vq3lsjzxe3fk4e&count=5" alt="Spotify Recently Played Tracks">
