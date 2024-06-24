@@ -88,3 +88,4 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mhrylatxh3n3vq3lsjzxe3fk4e&count={count})
